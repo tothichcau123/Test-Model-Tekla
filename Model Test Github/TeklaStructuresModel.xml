@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+<Model>
+<Name>
+Model Test Github
+</Name>
+<Designer>
+ 
+</Designer>
+<Description>
+ 
+</Description>
+<Version>
+17.0 Service Release 5
+</Version>
+<Language>
+enu
+</Language>
+<Template>
+
+</Template>
+<Environment>
+korea
+</Environment>
+<IsTemplate>
+FALSE
+</IsTemplate>
+<XS_PROJECT>
+
+</XS_PROJECT>
+<XS_FIRM>
+
+</XS_FIRM>
+<XS_SYSTEM>
+C:\TeklaStructures\17.0\\environments\korea\system\;C:\TeklaStructures\17.0\\environments\default\system\;C:\TeklaStructures\17.0\\environments\common\system\
+</XS_SYSTEM>
+</Model>
+</TeklaStructuresModels>
+
